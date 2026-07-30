@@ -17,6 +17,19 @@
   </a>
 </p>
 
+### 📈 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=wade-wilson-00&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wade-wilson-00&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wade-wilson-00&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
 ---
 
 ### 🚀 About Me
@@ -70,19 +83,6 @@
 - Containerized microservices with Docker for continuous deployment on AWS
 
 **Stack:** `Python` `Next.js` `FastAPI` `RAG` `Vector DB` `Supabase` `AWS` `Docker`
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=wade-wilson-00&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wade-wilson-00&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wade-wilson-00&theme=tokyonight&hide_border=true" />
-</p>
 
 ---
 
