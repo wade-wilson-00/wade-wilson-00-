@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aman Gujamagadi</h1>
-<h3 align="center">AI Engineer • Agentic AI & Multi-Agent Systems • RAG Pipelines • Cloud-Native Backends</h3>
+<h3 align="center">A Driven AI Engineer specializing in Agentic AI, enterprise-grade RAG pipelines, and Cloud-native backend architectures. Bridges the gap between advanced Machine Learning (LLMs) and robust Software engineering, combining production-ready REST API design with scalable system architecture to build and deploy intelligent, autonomous applications from concept to production.</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=Building+autonomous%2C+production-ready+AI+systems;Agentic+AI+%7C+RAG+Pipelines+%7C+LangGraph+%7C+FastAPI;Bridging+Machine+Learning+and+Software+Engineering;Currently+building+HUNTERS+%F0%9F%A4%96" alt="Typing SVG" />
