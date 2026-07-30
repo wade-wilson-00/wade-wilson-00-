@@ -1,5 +1,5 @@
-<h1 align="center">Hey, I'm Aman </h1>
-<p align="center">A Driven AI Engineer specializing in Agentic AI, enterprise-grade RAG pipelines, and Cloud-native backend architectures. Bridges the gap between advanced Machine Learning (LLMs) and robust Software engineering, combining production-ready REST API design with scalable system architecture to build and deploy intelligent, autonomous applications from concept to production.</p>
+<h1 align="center">Hi 👋, I'm Aman Gujamagadi</h1>
+<h3 align="center">AI Engineer • Agentic AI & Multi-Agent Systems • RAG Pipelines • Cloud-Native Backends</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=Building+autonomous%2C+production-ready+AI+systems;Agentic+AI+%7C+RAG+Pipelines+%7C+LangGraph+%7C+FastAPI;Bridging+Machine+Learning+and+Software+Engineering;Currently+building+HUNTERS+%F0%9F%A4%96" alt="Typing SVG" />
@@ -23,9 +23,10 @@
 
 - 🔭 Currently building **HUNTERS** — a terminal-based, voice-first multi-agent AI system that automates the end-to-end job application pipeline
 - 🌱 Also shipping **STRAT IQ** — an AI-powered decision intelligence platform combining predictive ML with RAG-driven insights
-- ⚡ I specialize in **Agentic AI**, **RAG pipelines**, and **Cloud Native Backend Systems** and **MCP** based tool orchestration
-- 🛠️ Comfortable across the full stack — from LangGraph agent orchestration to FastAPI backends to AWS deployment.
-- 📚 Background: Bachelor of Science - Information Technology (University of Mumbai) + Diploma in Computer Engineering
+- ⚡ I specialize in **Agentic AI**, **RAG pipelines**, and **Model Context Protocol (MCP)** based tool orchestration
+- 🛠️ Comfortable across the full stack — from LangGraph agent orchestration to FastAPI backends to AWS deployment
+- 📚 Background: B.Sc IT (University of Mumbai) + Diploma in Computer Engineering
+- 💬 Ask me about: RAG optimization, multi-agent orchestration, or async Python
 
 ---
 
@@ -33,17 +34,16 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,java,fastapi,nodejs,react,nextjs&theme=dark" /><br/>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,supabase,docker,aws,git,github,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,supabase,docker,aws,git,github,vscode,sklearn&theme=dark" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ChromaDB-FF6F00?style=flat-square&logo=databricks&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
-  <img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Model_Context_Protocol-6E56CF?style=flat-square&logo=anthropic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ChromaDB-FF6F00?style=for-the-badge&logo=chromadb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MCP-6E56CF?style=for-the-badge&logo=modelcontextprotocol&logoColor=white"/>
 </p>
 
 ---
@@ -76,8 +76,8 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=wade-wilson-00&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wade-wilson-00&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
